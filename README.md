@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Ved Patel 👋
+**Honours Computer Science @ Ontario Tech University | IBM Certified Generative AI Engineer**
 
-<!--
-**VedMP/VedMP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Technical Focus
+* **Generative AI:** Building RAG architectures, Fine-tuning LLMs (Llama-3.1), and Agentic Workflows.
+* **Software Engineering:** Robust backend systems using C++, Python, and Java.
+* **Data Systems:** Deep focus on Database Normalization and High-Performance SQL.
 
-Here are some ideas to get you started:
+### 🛠️ Core Tech Stack
+- **Languages:** Python, C++, Java, SQL, HTML/CSS
+- **AI/ML:** LangChain, Watsonx.ai, ChromaDB, Hugging Face
+- **Tools:** Docker, Git, Streamlit, Linux, HDFS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Current High-Impact Project: [LogFile-GPT / Security Bot]
+*Developing a specialized co-pilot using Llama-3.1-8B to automate log analysis and vulnerability patching for Apache and Linux environments.*
